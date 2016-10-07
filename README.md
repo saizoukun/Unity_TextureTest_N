@@ -1,0 +1,2 @@
+# Unity_TextureTest_N
+Unityのテクスチャーとノーマルマップの組み合わせのサンプルです。
